@@ -9,4 +9,5 @@
     <string name="palm_sensitivity_value">Seuil : %.2f</string>
     <string name="restrict_writing_zone">Ignorer le haut de l\'écran pendant l\'écriture</string>
     <string name="ok">OK</string>
+    <string name="touch_debug">Diagnostic tactile</string>
 </resources>

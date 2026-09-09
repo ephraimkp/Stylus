@@ -35,6 +35,9 @@ class NoteListActivity : AppCompatActivity() {
         findViewById<FloatingActionButton>(R.id.fabNewNote).setOnClickListener {
             startActivity(Intent(this, DrawingActivity::class.java))
         }
+        findViewById<android.widget.Button>(R.id.btnDebug).setOnClickListener {
+            startActivity(Intent(this, TouchDebugActivity::class.java))
+        }
     }
 
     override fun onResume() {
