@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.StylusNotes" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#2962FF</item>
+        <item name="colorPrimaryDark">#0039CB</item>
+        <item name="colorAccent">#2962FF</item>
+    </style>
+</resources>

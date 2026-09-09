@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Stylus Notes</string>
+    <string name="new_note">Nouvelle note</string>
+    <string name="undo">Annuler</string>
+    <string name="clear">Effacer</string>
+    <string name="save">Enregistrer</string>
+    <string name="palm_settings">Rejet de paume</string>
+    <string name="palm_sensitivity_label">Sensibilité du rejet de paume</string>
+    <string name="palm_sensitivity_value">Seuil : %.2f</string>
+    <string name="restrict_writing_zone">Ignorer le haut de l\'écran pendant l\'écriture</string>
+    <string name="ok">OK</string>
+</resources>
